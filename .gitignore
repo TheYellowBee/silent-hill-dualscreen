@@ -1,0 +1,17 @@
+# Never commit game data, saves, APKs or keys.
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+*.mcd
+*.mcr
+*.srm
+save/
+gamedata/
+*.apk
+*.aab
+*.jks
+*.keystore
+keystore.properties
+local.properties
