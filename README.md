@@ -94,7 +94,6 @@ Saves live in `Android/data/com.silenthill.pc/files/gamedata/save/`.
 ## Known issues
 
 - **Black screen on the very first start**, right after allowing file access. Close and reopen the app.
-
 - **Some places run slower on the RG DS** than on the Thor, like the opening cafe.
 - **Game sound may be a bit quiet** next to the movies.
 - **Only the USA disc** is tested.
