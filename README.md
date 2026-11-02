@@ -32,9 +32,6 @@ It also runs on regular phones and foldables, with touch buttons.
 4. Open the app. Allow **"All files access"** when asked. This lets it find the game in Download.
 5. On a dual-screen device, allow **"Display over other apps"** if asked. This shows the menu on the second screen.
 
-> **Screen stays black the first time?** Close the app fully and open it again.
-> This can happen right after you allow file access. It only happens once.
-
 ### Updating
 
 **Install the new APK over the old one.** Your saves stay.
@@ -109,7 +106,6 @@ Cat Harry is made by OffensiveNeon: [OffensiveNeon/cat-harry](https://github.com
 
 ## Known issues
 
-- **Black screen on the very first start**, right after allowing file access. Close and reopen the app.
 - **Some places run slower on the RG DS** than on the Thor, like the opening cafe.
 - **Game sound may be a bit quiet** next to the movies.
 - **Only the USA disc** is tested.
