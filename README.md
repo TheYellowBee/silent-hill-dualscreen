@@ -91,6 +91,22 @@ Saves live in `Android/data/com.silenthill.pc/files/gamedata/save/`.
 
 ---
 
+## Mods 🐱
+
+From v1.1 the game can load costume mods. Try **Cat Harry**: cat ears and a swinging tail for Harry.
+Get `cat-harry.shc` from the [Releases](../../releases) page.
+
+1. Download `cat-harry.shc` to your device.
+2. In the game: **Options → PC Options**, then go to the **Mods** page (press L1 once).
+3. Choose **Add Mod File** and pick `cat-harry.shc`.
+
+**Mods On/Off** on the same page turns them off again. Without a mod file, nothing changes.
+
+Cat Harry is made by OffensiveNeon: [OffensiveNeon/cat-harry](https://github.com/OffensiveNeon/cat-harry)
+(there's a PC version there too).
+
+---
+
 ## Known issues
 
 - **Black screen on the very first start**, right after allowing file access. Close and reopen the app.
